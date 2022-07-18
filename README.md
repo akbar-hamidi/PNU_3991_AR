@@ -4,7 +4,7 @@
 --------------
 
 # اکبر حمیدی
-- [PNU_4001_AR](https://github.com/akbar-hamidi/PNU_4001_AR)
+- [PNU_3991_AR](https://github.com/akbar-hamidi/PNU_4001_AR)
 - [Resume](https://akbar-hamidi.github.io/My-resume/)  
 - [SOP](https://akbar-hamidi.github.io/SOP/)
 
