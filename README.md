@@ -27,9 +27,9 @@
 ------------------
 ## فهرست درس ها  
 
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[1115026_01	مهندسي نرم افزارپيشرفته	3]()
 <br>
-[1115282_01	متدولوژي ايجاد نرم افزار	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
+[1115282_01	متدولوژي ايجاد نرم افزار	3]()
 <br>
 [1115280_01	معماري نرم افزار	3]()
 <br>
